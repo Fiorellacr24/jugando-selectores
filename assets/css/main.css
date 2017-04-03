@@ -1,0 +1,42 @@
+.one-paragraph h1 {
+	color: #4B9E78;
+}
+
+.one-paragraph strong{
+	color: red;
+}
+
+.one-paragraph span{
+	color: orange;
+}
+
+body {
+	margin-left: 50px;
+}
+
+.second-paragraph h1 {
+	color: blue;
+}
+
+.second-paragraph ins{
+	color: red;
+}
+
+.second-paragraph i{
+	color: #396C85;
+}
+
+.second-paragraph span{
+	color: purple;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 0.60em;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
